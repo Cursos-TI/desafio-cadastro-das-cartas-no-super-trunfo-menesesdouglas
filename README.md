@@ -85,6 +85,32 @@ No nível Mestre, você implementará a comparação entre duas cartas e o cálc
 
 **Observação:**  Preste atenção à conversão de tipos ao calcular o Super Poder!
 
+## ⚙️ Como Compilar
+
+### 💡 Requisitos
+
+- Compilador C (`gcc`)
+- Terminal/Shell (Linux, macOS, Windows com MinGW ou WSL)
+- Arquivo: `cartas_cidades.c`
+
+### 🔧 Passos para Compilar
+
+#### No **Linux** ou **macOS**:
+
+bash
+gcc -o cartas_cidades cartas_cidades.c
+./cartas_cidades
+
+#### No **Windows**:
+
+gcc -o cartas_cidades cartas_cidades.c
+cartas_cidades.exe
+
+No Dev C++ (Windows):
+
+    Crie um novo arquivo .c e cole o código.
+
+    Clique em "Execute" > "Compile and Run" ou pressione F11.
 
 ## 🏁 Conclusão
 
